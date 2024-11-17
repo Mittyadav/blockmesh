@@ -7,6 +7,8 @@
 # NOTED
 - Isi ```reff.txt``` dengan ```invite_code``` mu
 - Isi ```proxy.txt``` format sesuaikan seperti biasa
+- Multi reff
+- Auto Save reff yg valid di akun.txt
 
 # how to run
 ```
